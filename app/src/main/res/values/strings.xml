@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kheems</string>
+    <string name="texto_reiniciar">Reiniciar</string>
+    <string name="txt_nombre">Nombre: </string>
+    <string name="txt_guardar">Guardar</string>
+    <string name="txt_ganaste">!GAMNASTE¡</string>
+    <string name="txt_registro">Registrate para la lista de ganadores</string>
+    <string name="txt_lista">Lista de ganadores</string>
+    <string name="txt_puntos">Puntos: </string>
+    <string name="txt_partidas">Partidos: </string>
+    <string name="txt_fecha">Fecha: </string>
+
+</resources>
